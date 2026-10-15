@@ -1,0 +1,16 @@
+openvino>=2024.0.0
+openvino-genai
+optimum-intel[openvino]
+transformers
+torch
+sentence-transformers
+chromadb
+scikit-learn
+pandas
+numpy
+matplotlib
+psutil
+gradio
+datasets
+pynvml
+pypdf
